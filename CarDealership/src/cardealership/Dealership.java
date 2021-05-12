@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author VISHNU VARDHAN
+ * @author SAI SOWJANYA
  *
  */
 
@@ -90,8 +90,7 @@ public class Dealership {
 		}
 	}
 
-	/**
-	 * 
+	/* 
 	 * @param cust
 	 * @param input
 	 * @param employee
